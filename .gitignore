@@ -1,0 +1,8 @@
+*.pyc
+!.gitignore
+backup/
+bin/
+buildbot/
+lib/
+venv/
+worker/
